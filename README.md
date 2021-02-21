@@ -28,3 +28,5 @@ yarn android
 
 <br/><br/>
 ![](add_repository.gif)
+
+<img src="add_repository.gif" width="100" height="100">
