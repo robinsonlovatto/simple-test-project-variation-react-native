@@ -1,7 +1,7 @@
 # React Native - A simple test project 
 Exercise on React Native for the Bootcamp GoStack - Rocketseat.
 
-Add a record in the backend by clicking the button "Adicionar".
+Add likes to a repository by clicking the button "Curtir".
 
 To install all dependencies:
 
