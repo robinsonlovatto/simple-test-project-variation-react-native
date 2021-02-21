@@ -3,7 +3,12 @@ Exercise on React Native for the Bootcamp GoStack - Rocketseat.
 
 Add likes to a repository by clicking the button "Curtir".
 
-To install all dependencies:
+### Installation
+Install and run the back-end:
+[simple-test-project-variation-nodejs](https://github.com/rlovatto/simple-test-project-variation-nodejs)
+
+
+To install all dependencies for this project:
 
 ```
 yarn
